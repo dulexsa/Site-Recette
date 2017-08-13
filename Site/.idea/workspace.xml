@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aae2e2ee-668d-4800-95bf-8fd79e1eceb9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="c.databaseAction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/php/controller/c.databaseAction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1117">
+              <caret line="198" column="122" lean-forward="false" selection-start-line="198" selection-start-column="122" selection-end-line="198" selection-end-column="122" />
+              <folding>
+                <marker date="1494359787784" expanded="true" signature="6026:6043" ph="..." />
+                <marker date="1494359787784" expanded="true" signature="6044:6423" ph="..." />
+                <marker date="1494359787784" expanded="false" signature="6144:6158" ph="..." />
+                <marker date="1494359787784" expanded="true" signature="6214:6394" ph="..." />
+                <marker date="1494359787784" expanded="false" signature="6298:6339" ph="..." />
+                <marker date="1494359787784" expanded="true" signature="6767:6784" ph="..." />
+                <marker date="1494359787784" expanded="true" signature="6785:7165" ph="..." />
+                <marker date="1494359787784" expanded="false" signature="6885:6899" ph="..." />
+                <marker date="1494359787784" expanded="true" signature="6956:7136" ph="..." />
+                <marker date="1494359787784" expanded="false" signature="7040:7081" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="c.formAction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/php/controller/c.formAction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verifFormAddCIF.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/verifFormAddCIF.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seeCIF.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/php/view/seeCIF.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/php/view/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addCIF.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/php/view/addCIF.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
+              <folding>
+                <marker date="1494356137684" expanded="true" signature="7785:7851" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/php/view/object.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="54" />
+              <folding>
+                <marker date="1493993980298" expanded="true" signature="4051:4070" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="m.databaseAction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/php/model/m.databaseAction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="34" />
+              <folding>
+                <marker date="1494359787776" expanded="true" signature="759:791" ph="SELECT utiMD... t_utilisateur" />
+                <marker date="1494359787776" expanded="true" signature="912:990" ph="SELECT utiPs... t_utilisateur" />
+                <marker date="1494359787776" expanded="true" signature="1151:1386" ph="INSERT INTO t_utilisateur... " />
+                <marker date="1494359787776" expanded="true" signature="1589:1793" ph="INSERT INTO t_cif... " />
+                <marker date="1494359787776" expanded="true" signature="1589:1913" ph="INSERT INTO t_cif... " />
+                <marker date="1494359787776" expanded="true" signature="1842:1911" ph="SELECT idUti... t_utilisateur" />
+                <marker date="1494359787776" expanded="true" signature="2053:2286" ph="INSERT INTO t_objet... " />
+                <marker date="1494359787776" expanded="true" signature="2180:2284" ph="SELECT idCIF... t_cif" />
+                <marker date="1494359787776" expanded="true" signature="2398:2523" ph="SELECT cifCh... t_cif" />
+                <marker date="1494359787776" expanded="true" signature="2634:2781" ph="SELECT *, `t... t_cif" />
+                <marker date="1494359787776" expanded="true" signature="2634:2793" ph="SELECT *, `t... t_cif" />
+                <marker date="1494359787776" expanded="true" signature="2634:2810" ph="SELECT *, `t... t_cif" />
+                <marker date="1494359787776" expanded="true" signature="2731:2780" ph="SELECT idCat... t_categorie" />
+                <marker date="1494359787776" expanded="true" signature="2923:3018" ph="SELECT *,t_u... t_cif" />
+                <marker date="1494359787776" expanded="true" signature="3133:3232" ph="SELECT *,COU... t_utilisateur" />
+                <marker date="1494359787776" expanded="true" signature="3350:3384" ph="SELECT * FRO... t_objet" />
+                <marker date="1494359787776" expanded="true" signature="3498:3528" ph="SELECT catNo... t_categorie" />
+                <marker date="1494359787776" expanded="true" signature="3656:3739" ph="UPDATE t_cif... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="htmlNav.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/php/include/htmlNav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="62" column="64" lean-forward="false" selection-start-line="62" selection-start-column="64" selection-end-line="62" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/php/view/addCIF.php" />
+        <option value="$PROJECT_DIR$/src/php/controller/c.formAction.php" />
+        <option value="$PROJECT_DIR$/src/php/model/m.databaseAction.php" />
+        <option value="$PROJECT_DIR$/src/php/controller/c.databaseAction.php" />
+        <option value="$PROJECT_DIR$/src/php/include/htmlNav.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="040-P_Web2-stocchetjo-dulexsa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae2e2ee-668d-4800-95bf-8fd79e1eceb9" name="Default" comment="" />
+      <created>1494353457375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494353457375</updated>
+      <workItem from="1494353458649" duration="6328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6328000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/php/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/view/object.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="54" />
+          <folding>
+            <marker date="1493993980298" expanded="true" signature="4051:4070" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/view/addCIF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="84" column="105" lean-forward="false" selection-start-line="84" selection-start-column="105" selection-end-line="84" selection-end-column="105" />
+          <folding>
+            <marker date="1494356137684" expanded="true" signature="7785:7851" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/view/seeCIF.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/verifFormAddCIF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/controller/c.formAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/model/m.databaseAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="34" />
+          <folding>
+            <marker date="1494359787776" expanded="true" signature="759:791" ph="SELECT utiMD... t_utilisateur" />
+            <marker date="1494359787776" expanded="true" signature="912:990" ph="SELECT utiPs... t_utilisateur" />
+            <marker date="1494359787776" expanded="true" signature="1151:1386" ph="INSERT INTO t_utilisateur... " />
+            <marker date="1494359787776" expanded="true" signature="1589:1793" ph="INSERT INTO t_cif... " />
+            <marker date="1494359787776" expanded="true" signature="1589:1913" ph="INSERT INTO t_cif... " />
+            <marker date="1494359787776" expanded="true" signature="1842:1911" ph="SELECT idUti... t_utilisateur" />
+            <marker date="1494359787776" expanded="true" signature="2053:2286" ph="INSERT INTO t_objet... " />
+            <marker date="1494359787776" expanded="true" signature="2180:2284" ph="SELECT idCIF... t_cif" />
+            <marker date="1494359787776" expanded="true" signature="2398:2523" ph="SELECT cifCh... t_cif" />
+            <marker date="1494359787776" expanded="true" signature="2634:2781" ph="SELECT *, `t... t_cif" />
+            <marker date="1494359787776" expanded="true" signature="2634:2793" ph="SELECT *, `t... t_cif" />
+            <marker date="1494359787776" expanded="true" signature="2634:2810" ph="SELECT *, `t... t_cif" />
+            <marker date="1494359787776" expanded="true" signature="2731:2780" ph="SELECT idCat... t_categorie" />
+            <marker date="1494359787776" expanded="true" signature="2923:3018" ph="SELECT *,t_u... t_cif" />
+            <marker date="1494359787776" expanded="true" signature="3133:3232" ph="SELECT *,COU... t_utilisateur" />
+            <marker date="1494359787776" expanded="true" signature="3350:3384" ph="SELECT * FRO... t_objet" />
+            <marker date="1494359787776" expanded="true" signature="3498:3528" ph="SELECT catNo... t_categorie" />
+            <marker date="1494359787776" expanded="true" signature="3656:3739" ph="UPDATE t_cif... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/controller/c.databaseAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1117">
+          <caret line="198" column="122" lean-forward="false" selection-start-line="198" selection-start-column="122" selection-end-line="198" selection-end-column="122" />
+          <folding>
+            <marker date="1494359787784" expanded="true" signature="6026:6043" ph="..." />
+            <marker date="1494359787784" expanded="true" signature="6044:6423" ph="..." />
+            <marker date="1494359787784" expanded="false" signature="6144:6158" ph="..." />
+            <marker date="1494359787784" expanded="true" signature="6214:6394" ph="..." />
+            <marker date="1494359787784" expanded="false" signature="6298:6339" ph="..." />
+            <marker date="1494359787784" expanded="true" signature="6767:6784" ph="..." />
+            <marker date="1494359787784" expanded="true" signature="6785:7165" ph="..." />
+            <marker date="1494359787784" expanded="false" signature="6885:6899" ph="..." />
+            <marker date="1494359787784" expanded="true" signature="6956:7136" ph="..." />
+            <marker date="1494359787784" expanded="false" signature="7040:7081" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/php/include/htmlNav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="62" column="64" lean-forward="false" selection-start-line="62" selection-start-column="64" selection-end-line="62" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
